@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FRC Scouting</string>
+    <string-array name="choices_array">
+        <item>Team Number</item>
+        <item>Match Number</item>
+        <item>Crossed Baseline</item>
+        <item>Auto Cube in Switch</item>
+        <item>Auto Cube in Scale</item>
+        <item>Teleop Cubes in Switch</item>
+        <item>Teleop Cubes in Scale</item>
+        <item>Teleop Cubes in Exchange</item>
+        <item>Climbed</item>
+        <item>Malfunction</item>
+    </string-array>
+    <string-array name="rankings_array">
+        <item>Best Switch Bot</item>
+        <item>Best Scale Bot</item>
+        <item>Best Exchange Bot</item>
+    </string-array>
+</resources>
