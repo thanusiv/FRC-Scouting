@@ -1,1 +1,29 @@
-# FRC-Scouting
+| <img width="105" height="100" src="app/src/main/ic_launcher-web.png"/> |<h1>FRC Scouting</h1>| 
+| :---         |     :---:      | 
+
+## Overview
+
+[FRC Scouting](https://play.google.com/store/apps/details?id=com.team6378.thanu.frcmanager) is an Android app that allowed teams to scout opponents, create strategies against key teams and rank teams for alliance selection for the 2018 FIRST Robotics Competition: FIRST Power Up. The app on the Google Play Store will always remain in Alpha because our team vowed we would completely release the app once we made it to Worlds but sadly, we did not. Thus, it will always remain in Alpha.
+
+## Screenshots
+
+<img width = 300 src="Screenshots/1_1.png"/> <img width = 300 src="Screenshots/2_1.png"/>
+<img width = 300 src="Screenshots/3_1.png"/> <img width = 300 src="Screenshots/4_1.png"/>
+<img width = 300 src="Screenshots/5_1.png"/>
+
+## Features
+
+- Keeps track of data for each competition you attend
+- Organizes your match data based on the core features of this year's game
+- Search for the teams that interest you most through the piles of data you collect
+- Has complete offline support and uses Bluetooth to send data between phones
+- Export your data to an Excel file
+
+## Technologies Used
+
+- [Android Studio](https://developer.android.com/studio) - IDE used to build the game
+- [Java](https://www.java.com/en/download/) - Programming language used (Created the app when I was new to programming, so I used Java instead of Kotlin)
+
+## Acknowledgements
+
+- Thanks to my Team 6378 for supporting this app!
