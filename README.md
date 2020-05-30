@@ -6,6 +6,7 @@
 - [Overview](#Overview)
 - [Screenshots](#Screenshots)
 - [Features](#Features)
+- [Cool Things about the App](#Features)
 - [Technologies Used](#technologies-used)
 - [Acknowledgements](#acknowledgements)
 
@@ -26,6 +27,13 @@
 - Search for the teams that interest you most through the piles of data you collect
 - Has complete offline support and uses Bluetooth to send data between phones
 - Export your data to an Excel file
+- Allows you to take pictures of robots for scouting purposes
+
+## Cool Things about the App
+- Designed a pipeline to send data between phones via Bluetooth and export data to a Spreadsheet
+- Built a ranking system that would categorize opponents in 3 distinct groups based off user preferences
+- Created algorithms for tabulating game data and developed searching capabilities to allow easy access
+to specific match or team statistics
 
 ## Technologies Used
 
