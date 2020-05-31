@@ -5,7 +5,7 @@
 
 - [Overview](#Overview)
 - [Screenshots](#Screenshots)
-- [How to Play on Your Device](#how-to-play-on-your-device)
+- [How to Play on Your Device](#how-to-load-on-your-device)
 - [Features](#Features)
 - [Cool Things about the App](#cool-things-about-the-app)
 - [Technologies Used](#technologies-used)
@@ -22,7 +22,7 @@
 <img width = 300 src="Screenshots/5_1.png"/> <img width = 300 src="Screenshots/7_1.png"/> 
 <img width = 300 src="Screenshots/8_1.png"/> <img width = 300 src="Screenshots/9_1.png"/>
 
-## How to Play on Your Device
+## How to Load on Your Device
 
 You can simply click on the hyperlink of FRC Scouting in the [Overview](#Overview) section or [click here](https://play.google.com/store/apps/details?id=com.team6378.thanu.frcmanager) to download the app from the Google Play Store. 
 
