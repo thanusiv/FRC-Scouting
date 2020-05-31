@@ -19,7 +19,8 @@
 
 <img width = 300 src="Screenshots/1_1.png"/> <img width = 300 src="Screenshots/2_1.png"/>
 <img width = 300 src="Screenshots/3_1.png"/> <img width = 300 src="Screenshots/4_1.png"/>
-<img width = 300 src="Screenshots/5_1.png"/>
+<img width = 300 src="Screenshots/5_1.png"/> <img width = 300 src="Screenshots/7_1.png"/> 
+<img width = 300 src="Screenshots/8_1.png"/> <img width = 300 src="Screenshots/9_1.png"/>
 
 ## How to Play on Your Device
 
