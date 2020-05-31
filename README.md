@@ -5,6 +5,7 @@
 
 - [Overview](#Overview)
 - [Screenshots](#Screenshots)
+- [How to Play on Your Device](#how-to-play-on-your-device)
 - [Features](#Features)
 - [Cool Things about the App](#cool-things-about-the-app)
 - [Technologies Used](#technologies-used)
@@ -19,6 +20,10 @@
 <img width = 300 src="Screenshots/1_1.png"/> <img width = 300 src="Screenshots/2_1.png"/>
 <img width = 300 src="Screenshots/3_1.png"/> <img width = 300 src="Screenshots/4_1.png"/>
 <img width = 300 src="Screenshots/5_1.png"/>
+
+## How to Play on Your Device
+
+You can simply click on the hyperlink of Climby CLimb in the [Overview](#Overview) section or [click here](https://play.google.com/store/apps/details?id=com.team6378.thanu.frcmanager) to download the app from the Google Play Store. Alternatively, you can clone this repository and open it up in Android Studio. Then simply load the app to you Android device by clicking the green play button on the top-right side of the IDE (assuming no compilation erros :D).
 
 ## Features
 
